@@ -1,0 +1,19 @@
+{
+  "name": "nbna_xid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huir76/nbna_xid"
+  },
+  "keywords": [],
+  "author": "huir76",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
